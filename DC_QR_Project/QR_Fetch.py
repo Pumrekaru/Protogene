@@ -1,6 +1,6 @@
 # QR_Fetch
 
-# pip install opencv-python pyzbar
+# pip install opencv-python pyzbar - Required libraries
 
 import cv2
 from pyzbar.pyzbar import decode
